@@ -50,7 +50,7 @@ The dataset used is `telecom_customer_churn.csv` which contains various details 
 
 **Sonu Saini**  
 Aspiring Data Scientist | BTech CSE - AI & DS  
-LinkedIn: *[Add your link]*
+LinkedIn: https://www.linkedin.com/in/sonu-saini-408b682b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
